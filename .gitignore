@@ -1,0 +1,7 @@
+dist/
+build/
+*.exe
+*.spec
+*.log
+__pycache__/
+.env
